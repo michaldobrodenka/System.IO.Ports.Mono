@@ -1,0 +1,8 @@
+C:\Users\Michal\source\repos\MonoSerialPort\System.IO.Ports.Mono\System.IO.Ports.Mono\bin\Release\netstandard2.0\System.IO.Ports.Mono.deps.json
+C:\Users\Michal\source\repos\MonoSerialPort\System.IO.Ports.Mono\System.IO.Ports.Mono\bin\Release\netstandard2.0\System.IO.Ports.Mono.dll
+C:\Users\Michal\source\repos\MonoSerialPort\System.IO.Ports.Mono\System.IO.Ports.Mono\bin\Release\netstandard2.0\System.IO.Ports.Mono.pdb
+C:\Users\Michal\source\repos\MonoSerialPort\System.IO.Ports.Mono\System.IO.Ports.Mono\obj\Release\netstandard2.0\System.IO.Ports.Mono.csproj.CoreCompileInputs.cache
+C:\Users\Michal\source\repos\MonoSerialPort\System.IO.Ports.Mono\System.IO.Ports.Mono\obj\Release\netstandard2.0\System.IO.Ports.Mono.AssemblyInfoInputs.cache
+C:\Users\Michal\source\repos\MonoSerialPort\System.IO.Ports.Mono\System.IO.Ports.Mono\obj\Release\netstandard2.0\System.IO.Ports.Mono.AssemblyInfo.cs
+C:\Users\Michal\source\repos\MonoSerialPort\System.IO.Ports.Mono\System.IO.Ports.Mono\obj\Release\netstandard2.0\System.IO.Ports.Mono.dll
+C:\Users\Michal\source\repos\MonoSerialPort\System.IO.Ports.Mono\System.IO.Ports.Mono\obj\Release\netstandard2.0\System.IO.Ports.Mono.pdb
