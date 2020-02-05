@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Michal Dobrodenka</Authors>
+    <Company>Michal Dobrodenka</Company>
+    <Description>Mono SerialPort as a NET Standard 2.0 library. Has the same limitations as a Mono SerialPort, but much lower CPU usage, making it suitable for low power linux ARM boards.</Description>
+    <PackageId>SystemIOPorts.SerialPort_Mono</PackageId>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
